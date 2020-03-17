@@ -1,0 +1,27 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: gliax_ecg_simple.PcbDoc   17/01/2019  11:36:57 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : gliax_ecg_simple-RoundHoles.TXT
+ASCII SlotHoles File : gliax_ecg_simple-SlotHoles.TXT
+EIA File   : gliax_ecg_simple.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             669       PTH        0.00inch (0.00mm)
+T2      15mil (0.381mm)                                           Round             80        PTH        0.00inch (0.00mm)
+T3      20mil (0.5mm)                                             Slot              2         PTH        0.00inch (0.00mm)
+T4      28mil (0.711mm)                                           Round             2         PTH        0.00inch (0.00mm)
+T5      32mil (0.8mm)                                             Round             5         PTH        0.00inch (0.00mm)
+T6      35mil (0.889mm)                                           Round             15        PTH        0.00inch (0.00mm)
+T7      35mil (0.9mm)                                             Round             18        PTH        0.00inch (0.00mm)
+T8      43mil (1.1mm)                                             Round             2         PTH        0.00inch (0.00mm)
+T9      51mil (1.3mm)                                             Round             2         PTH        0.00inch (0.00mm)
+T10     126mil (3.2mm)                                            Round             4         PTH        0.00inch (0.00mm)
+T11     130mil (3.302mm)                                          Round             2         PTH        0.00inch (0.00mm)
+T12     28mil (0.7mm)                                             Round             2         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              803
+
+Total Processing Time (hh:mm:ss) : 00:00:00

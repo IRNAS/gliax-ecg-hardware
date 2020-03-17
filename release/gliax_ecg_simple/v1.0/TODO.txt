@@ -1,0 +1,5 @@
+When programming the board with the Bucleo board programmer remove reset jumper JM12 form the bottom of the board.
+
+- On this version of the board MCU and the digital part of the ADC chip is powered with 3V3 instead of 1V8. This is because the digital isolator can`t work with 1V8 and also we can remove dcdc converter 3V3 to 1V8
+- add do not place on the components
+

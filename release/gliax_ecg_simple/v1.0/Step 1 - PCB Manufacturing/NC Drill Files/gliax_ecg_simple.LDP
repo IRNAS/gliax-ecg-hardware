@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\vojislav\OneDrive\IRNAS-Common\_NEW-IRNAS-COMMON\Glia-ECG-device\Electronics\gliax_ecg_simple\gliax_ecg_simple.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=gliax_ecg_simple-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=gliax_ecg_simple-slotholes.txt|DrillLayers=gtl,gbl
